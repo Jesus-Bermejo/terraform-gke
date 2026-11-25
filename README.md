@@ -1,6 +1,6 @@
 **Author:** Juan Vicente Herrera Ruiz de Alejo  
 **Role:** Professor at ICAI
-**User:** Jesus
+**User:** Jesus Bermejo
 
 
 ## OpenTofu GKE Deployment
